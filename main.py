@@ -7,7 +7,7 @@ import os
 from datetime import timedelta
 
 # Folder path
-pdf_folder = 'timesheets/'
+pdf_folder = 'timetables/'
 
 days_order = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"]
 
